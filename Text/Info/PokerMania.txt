@@ -1,0 +1,15 @@
+This is basically the Poker Solitaire portion of the Atari 2600 game Casino or the game Poker Squ?res ported to the Atari Lynx.
+
+The object is to place twenty-five cards out of fifty-two on a grid five rows wide and five rows deep to form the best poker hands you can, horizontally, vertically and diagonally. The better your poker hands, the more points you get.
+
+Points are awarded in the following way:
+
+1. For each row with one pair: two hundred points
+2. For each row with two pairs: four hundred points
+3. For each row with three of a kind: eight hundred points
+4. For each row with a straight: one thousand points
+5. For each row with a flush: one thousand four hundred points
+6. For each row with a full house: one thousand eight hundred points
+7. For each row with four of a kind: two thousand points
+8. For each row with a straight flush: two thousand four hundred points
+9. For each row with a royal straight flush: two thousand eight hundred points

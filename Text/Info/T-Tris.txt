@@ -1,0 +1,1 @@
+This is the game Tetris designed to run on the Atari Lynx. For those who have been living under a rock for the last two decades, I will explain: colored shapes fall from the top of the screen. You must arrange these shapes so they form a complete line across the playing field.  If the stack reaches the top of the playing field, the game is over.

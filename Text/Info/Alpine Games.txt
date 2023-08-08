@@ -1,0 +1,11 @@
+This is a winter sports game for the Atari Lynx. It consists of nine games. They can be played individually or in a series as a competition. The games are:
+
+1. Biathlon
+2. Snowboard Rush
+3. Freestyle Aerials
+4. Speedskating
+5. Slalom
+6. Bobsleigh
+7. Skijump
+8. Snowboard Halfpipe
+9. Figure Skating

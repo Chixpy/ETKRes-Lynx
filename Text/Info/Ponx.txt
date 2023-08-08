@@ -1,0 +1,3 @@
+This is the game Pong brought to the Atari Lynx, but with added options. You can control the difficulty, field color and number of balls in play. You can play one player or two players using one Lynx and Ponx cart, no Comlynx cable needed. If you select two players, the control pad is used to control the left paddle and the A and B buttons control the right paddle.
+
+The game play is the typical Pong game. Simply prevent the ball (or balls) from getting past your paddle while trying to get  the ball (or balls) past the opposing player's paddle to reach the winning score.

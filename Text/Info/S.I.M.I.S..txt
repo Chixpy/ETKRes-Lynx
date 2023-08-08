@@ -1,0 +1,16 @@
+S.I.M.I.S. stands for the names of the games and items on the card. They are SnakeByte, Invaders, Mines, Isolation, and Specials, which are the demos.
+
+SnakeByte
+This game is like one of many snake games. In SnakeByte, you are a snake moving about the screen, eating apples. You must not touch the walls or your own body. Each time you eat an apple, you grow longer, making maneuvering that much harder. In later levels, you have objects in the playing field to also avoid.
+
+Invaders
+This is the game Space Invaders that has been ported to the Atari Lynx. Rows of invaders move across the scree, firing down at you. When they reach the edge of the screen, they drop down then move towards the opposite side. You are a cannon at the bottom that moves left and right. You must shoot all the invaders before they get to the bottom of the screen. You have three shields to hide behind. Occasionally, a mother ship moves across the screen that can be shot for points.
+
+Mines
+This game is very similar  to the game Minesweeper. You must make your way across the room, from the upper left to the lower right. There are hidden mines in the room. You use your mine detector to see how many mines are one step away from you. Use your detonator to destroy all mines one step away. You are timed and if you fail to get to  the exit in time, all mines will go of, losing you the game. If you use your detonator next to the exit door, you also lose.
+
+Isolation
+The playing area in an eight by six area of tiles. You can move one step in any direction then once you move, you must remove a tile from around you.  You and your opponent do this, alternatively, until one of you has nowhere to move and is the loser.
+
+Specials
+This is four playable game demos that the authors are developing.
